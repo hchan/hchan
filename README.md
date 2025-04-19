@@ -1,16 +1,18 @@
-## Hi there 👋
+# Henry's repositories of Interest
 
-<!--
-**hchan/hchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Actions Search/Pagination
+Includes a frontend UI (ReactJS) to search/paginate  
+[Code](https://github.com/hchan/gha-search-pagination)  
+[Github Pages](https://hchan.github.io/gha-search-pagination/)  
 
-Here are some ideas to get you started:
+## Cat Yarn Game
+A mobile/desktop puzzle game about cats and yarn  
+[Code](https://github.com/hchan/catYarnGame)  
+[Github Pages](https://hchan.github.io/catYarnGame/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Diner Philsophy Game
+An education game teaching concurrency, deadlocks and how  
+to fix them.  Written in Unity (sorry, only works on a desktop  
+browser due to WebGL issues on mobile)  
+[Code](https://github.com/hchan/DinerPhilosophersGame)  
+[Github Pages](https://hchan.github.io/DinerPhilosophersGame/) 
